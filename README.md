@@ -2,7 +2,7 @@
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning HTML, css, js and php
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me :d
+<!--- 📫 How to reach me :
 
 <!---
 yGiacometti/yGiacometti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
